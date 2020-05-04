@@ -1,8 +1,8 @@
 # WebAPITemplate
 Just a template for .net webApi documentation
-Created this template because I started using a MAc from a windows 
+Created this template because I started using a Mac from a windows 
 and was having a hard time trying to figure out how to 
-get things up and running when creating an Webapi with swagger. 
+get things up and running quickly when creating an Webapi and adding swagger. 
 
 Maybe this might help someelse. 
 add nuget package : Swashbuckle.AspNetCore -
